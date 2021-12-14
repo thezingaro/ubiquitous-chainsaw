@@ -1,4 +1,4 @@
-# Documentazione del progetto 19/20
+# Documentazione del progetto per il corso di Intelligenza Artificiale A.A. 2020/2021
 
 In questo spazio sono conservati contenuti utili per la documentazione del progetto del corso di Sistemi Operativi per la Laurea Triennale in Informatica per il management dell'Università di Bologna, anno accademico 2019-2020.
 
