@@ -87,23 +87,23 @@ Componenti:
 1. Introduzione
   - Descrizione del problema: perché è un problema?
   - Descrizione della soluzione proposta: come si intende affrontare la realizzazione di una soluzione?
-  - [extra] Revisione della letteratura: Accenno alle soluzioni presenti nella letteratura esistente 
+  - [extra] Revisione della letteratura: Accenno alle soluzioni presenti nella letteratura esistente (e.g., [scholar.google.com](scholar.google.com), [arXiv.com](arXiv.com), [paperswithcode.com](paperswithcode.com)
   - [extra] Collaborazione: come è stato diviso il progetto tra i componenti del grupppo?
-  - Accenno ai risultati ottenuti
-2. Metodo
-  - Ricerca dell soluzione: quali alternative sono state considerate nella scelta della soluzione proposta?
+  - Presentazione dei risultati ottenuti
+2. Metodo proposto
+  - Ricerca della soluzione: quali alternative sono state considerate nella scelta della soluzione proposta?
   - Giustificazione della scelta: perché sono state adottate alcune soluzioni piuttosto di altre?
 3. Risultati sperimentali
-  - Istruzioni per la dimostrazione
-  - Elenco delle tecnologie usate per gli esperimenti
-  - Descrizione del metodo per la misurazione delle performance
+  - [opzionale] Istruzioni per la dimostrazione
+  - Elenco delle tecnologie usate per gli esperimenti (i.e., versione del software)
+  - Descrizione del metodo per la misurazione delle performance (e.g., BLEU, Accuracy, Precision)
   - Risultati della configurazione migliore
-  - [extra] Comparazione tra le diverse configurazioni
-  - [extra] Comparazione con le soluzioni presenti in letteratura
+  - [extra] Studio di ablazione: comparazione tra le diverse configurazioni
+  - [extra] Studio di comparazione: comparazione con le soluzioni presenti in letteratura
 4. Discussione e conclusioni
   - Discussione dei risultati ottenuti (in termini di performance)
   - Il metodo proposto rispetta le attese? Perché sì/no?
-  - Quali sono i limiti della soluzione proposta
+  - Limite del metodo: Quali sono i limiti della soluzione proposta
   - Lavori futuri: come si intende portare avanti il lavoro 
 ```
 
@@ -159,22 +159,11 @@ Insieme alla documentazione ed al codice sorgente, dovrà essere preparato uno s
 Almeno nella fase iniziale della prova orale, può essere utile preparare del materiale da correlare allo script (ad esempio _screenshot_), che permetteranno di velocizzare le operazioni di controllo del codice. 
 Tale suite di test _può_ essere intergrata nel codice sorgente (è tuttavia opzionale).
 
+## Calendario per l'esame orale
 
 In generale, la valutazione del progetto comprenderà la valutazione dell'implementazione e del report così come verranno esposte in sede di esame orale.
 La data presa in considerazione per la consegna dell'implementazione e del report del progetto sarà quella di creazione del **Tag** su [GitLab](https://gitlab.com).
-Le istruzioni per la creazione del consegna si trovano nella [pagina dedicata](consegna.md).
-
-## Calendario per l'esame orale
 Solo in seguito alle consegne, vengono fissate data ed orario della discussione (notificate alla mail del referente), **il prima possibile dopo la consegna**.
-
-# Note
-
-In generale, non è necessario usare il contenuto del repository ma solo leggerne le informazioni. 
-In ogni caso, è possibile scaricare (download) oppure clonare il codice con il comando `git`:
-
-```bash
-git clone https://github.com/szingaro/ubiquitous-chainsaw
-```
 
 # Licenza
 
