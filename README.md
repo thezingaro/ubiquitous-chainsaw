@@ -9,7 +9,7 @@ In particolare, i contenuti di questa pagina riguardano:
 
 # Gestione dei gruppi
 
-Ogni gruppo è composto da un minimo di una (1) ad un massimo di tre (3) persone. 
+Ogni gruppo è composto da un minimo di una (1) ad un massimo di quattro (4) persone. 
 Coloro che intendono partecipare all'esame comunicano la composizione del gruppo di lavoro **via posta elettronica** al [tutor](mailto:stefanopio.zingaro@unibo.it).
  
 Il messaggio deve essere inviato dalla propria mail istituzionale `@studio.unibo.it`, ha come oggetto **GRUPPO AI** e contiene:
