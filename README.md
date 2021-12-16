@@ -67,7 +67,7 @@ Concretamente, il report ha le seguenti caratteristiche:
 - è scritto con font di grandezza _12pt_,
 - è scritto nel formato preferito (e.g., `lateX`, `docx`),
 - rispetta la struttura del [modello](#modello-di-report),
-- viene consegnato in formato `PDF`.
+- viene consegnato in formato `PDF` nelle modalità descritte nella [sezione apposita](#consegna).
 
 ### Modello di report
 
