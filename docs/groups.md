@@ -4,3 +4,10 @@
 |:-|-:|
 | [Sergio Solmonte](mailto:sergio.solmonte@studio.unibo.it) | 1039237 |
 | Michele Stelluti | 1038862 |
+
+| <span style="color:red">Creative  </span> | 4 |
+|:-|-:|
+| [Alex Citeroni](mailto:alex.citeroni@studio.unibo.it) | 1052175 |
+| Simone Branchetti | 1038801 |
+| Davide Talevi | 1043409 |
+| Mirko Scozia | 1053220 |
