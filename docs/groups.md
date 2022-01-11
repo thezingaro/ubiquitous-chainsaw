@@ -14,7 +14,7 @@
 
 | <span style="color:red">Cypher</span> | 4 |
 | :- | -: |
-| Veronica Livenoti (mailto: veronica.livenoti@studio.unibo.it) | 0001039022 |
+| [Veronica Livenoti](mailto: veronica.livenoti@studio.unibo.it) | 0001039022 |
 | Giuseppe Caputo | 0001056533 |
 | Leonardo Vincenzi | 0001056530 |
 | Andrea Iannaccone | 0001038925 |
