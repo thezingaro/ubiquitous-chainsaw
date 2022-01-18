@@ -29,3 +29,10 @@
 |:-|-:|
 | [Alessandro Benetton](mailto:alessandro.benetton@studio.unibo.it) | 0001038887 |
 | Lorenzo Crespan | 0001038888 |
+
+| <span style="color:red">I Fantastici Quattro</span> | 4 |
+|:-|-:|
+| [Martina Accorsi](mailto:martina.accorsi4@studio.unibo.it) | 0001057600 |
+| Andrea Mancini | 0001056164 |
+| Erica Bertuzzi | 0001039031 |
+| Luca Cotugno | 0001062784 |
