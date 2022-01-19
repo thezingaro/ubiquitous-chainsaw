@@ -12,7 +12,7 @@
 | Davide Talevi | 1043409 |
 | Mirko Scozia | 1053220 |
 
-| <span style="color:red">Cypher</span> | 4 |
+| Cypher | 4 |
 | :- | -: |
 | [Veronica Livenoti](mailto:veronica.livenoti@studio.unibo.it) | 0001039022 |
 | Giuseppe Caputo | 0001056533 |
@@ -30,7 +30,7 @@
 | [Alessandro Benetton](mailto:alessandro.benetton@studio.unibo.it) | 0001038887 |
 | Lorenzo Crespan | 0001038888 |
 
-| <span style="color:red">I Fantastici Quattro</span> | 4 |
+| I Fantastici Quattro | 4 |
 |:-|-:|
 | [Martina Accorsi](mailto:martina.accorsi4@studio.unibo.it) | 0001057600 |
 | Andrea Mancini | 0001056164 |
