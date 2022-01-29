@@ -1,5 +1,13 @@
 **ATTENZIONE!** Se il colore del nome del gruppo è <span style="color:red">rosso</span>, ci sono stati dei problemi con la registrazione. Per risolvere, contattare [il tutor](mailto:stefanopio.zingaro@unibo.it) riportando nella mail il `nome del gruppo`.
 
+## Cerco GRUPPO AI
+
+| Nome, Cognome | Matricola | 
+|:-|-:|
+| Gabriele Pasquali | 1041754 |
+
+## Elenco GRUPPI AI
+
 | Coughntrol | 2 |
 |:-|-:|
 | [Sergio Solmonte](mailto:sergio.solmonte@studio.unibo.it) | 1039237 |
