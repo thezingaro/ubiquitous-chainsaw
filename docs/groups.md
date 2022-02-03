@@ -2,9 +2,7 @@
 
 ## Cerco GRUPPO AI
 
-| Nome, Cognome | Matricola | 
-|:-|-:|
-| Gabriele Pasquali | 1041754 |
+Nessuno, per il momento.
 
 ## Elenco GRUPPI AI
 
@@ -44,3 +42,16 @@
 | Andrea Mancini | 0001056164 |
 | Erica Bertuzzi | 0001039031 |
 | Luca Cotugno | 0001062784 |
+
+| <span style="color:red">LittleBit</span> | 4 |
+|:-|-:|
+| [Bianca Raimondi](mailto:bianca.raimondi2@studio.unibo.it) | 1025069 |
+| Nicolò Pizzo | 1038811 |
+| Nicola Panozzo | 1044424 |
+| Diego Concetti | 1039668 |
+
+| <span style="color:red">theForecasters</span> | 3 | 
+|:-|-:|
+| [Keran Jegasothy](mailto:keran.jegasothy@studio.unibo.it) | 1007457 |
+|Kathleen Anne Velasco | 1052173 |
+| Gabriele Pasquali | 1041754  |
