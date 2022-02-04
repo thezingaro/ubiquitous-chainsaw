@@ -50,8 +50,14 @@ Nessuno, per il momento.
 | Nicola Panozzo | 1044424 |
 | Diego Concetti | 1039668 |
 
-| <span style="color:red">theForecasters</span> | 3 | 
+| theForecasters | 3 | 
 |:-|-:|
 | [Keran Jegasothy](mailto:keran.jegasothy@studio.unibo.it) | 1007457 |
 |Kathleen Anne Velasco | 1052173 |
 | Gabriele Pasquali | 1041754  |
+
+| <span style="color:red">Python in my boot</span> | 3 |
+|:-|-:|
+| [Lorenzo Balugani](mailto:lorenzo.balugani2@studio.unibo.it) | 0001039239 | 
+| Alessandra Cosenza | 0001052401 |
+| Martina Sosto | 0001039236 |
