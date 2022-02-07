@@ -61,3 +61,7 @@ Nessuno, per il momento.
 | [Lorenzo Balugani](mailto:lorenzo.balugani2@studio.unibo.it) | 0001039239 | 
 | Alessandra Cosenza | 0001052401 |
 | Martina Sosto | 0001039236 |
+
+| <span style="color:red">OkComputer</span> | 1 |
+|:-|-:|
+| [Alessandro Pistola](mailto:alessandro.pistola@studio.unibo.it) | 1058248 |
