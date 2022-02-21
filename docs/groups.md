@@ -65,3 +65,9 @@ Nessuno, per il momento.
 | <span style="color:red">OkComputer</span> | 1 |
 |:-|-:|
 | [Alessandro Pistola](mailto:alessandro.pistola@studio.unibo.it) | 1058248 |
+
+| La Triade | 3 |
+|:-|-:|
+| [Luca Genova](mailto:luca.genova2@studio.unibo.it) | 0001038843 |
+| Marco Benito Tomasone | 0001038815 |
+| Simone Boldrini | 0001038792|
