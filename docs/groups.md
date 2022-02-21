@@ -66,7 +66,7 @@ Nessuno, per il momento.
 |:-|-:|
 | [Alessandro Pistola](mailto:alessandro.pistola@studio.unibo.it) | 1058248 |
 
-| La Triade | 3 |
+| <span style="color:red">La Triade</span> | 3 |
 |:-|-:|
 | [Luca Genova](mailto:luca.genova2@studio.unibo.it) | 0001038843 |
 | Marco Benito Tomasone | 0001038815 |
