@@ -71,3 +71,9 @@ Nessuno, per il momento.
 | [Luca Genova](mailto:luca.genova2@studio.unibo.it) | 0001038843 |
 | Marco Benito Tomasone | 0001038815 |
 | Simone Boldrini | 0001038792|
+
+| <span style="color:red">Leoni Turchesi Vanigliati</span> | 3 |
+|:-|-:|
+| [Gabriele Evangelista](gabriele.evangelista@studio.unibo.it) | 0001056572 |
+| Antonietta Pascarella | 0001039243 |
+| Michelle Zanotti | 0001038859 |
