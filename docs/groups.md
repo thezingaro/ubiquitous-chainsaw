@@ -56,7 +56,7 @@ Nessuno, per il momento.
 |Kathleen Anne Velasco | 1052173 |
 | Gabriele Pasquali | 1041754  |
 
-| <span style="color:red">Python in my boot</span> | 3 |
+| Python in my boot | 3 |
 |:-|-:|
 | [Lorenzo Balugani](mailto:lorenzo.balugani2@studio.unibo.it) | 0001039239 | 
 | Alessandra Cosenza | 0001052401 |
