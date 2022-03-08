@@ -31,10 +31,11 @@ Nessuno, per il momento.
 | Alfonso Esposito | 1057171 |
 | Isabella Marasco | 1040993 |
 
-| ITLandfill | 2 |
+| ITLandfill | 3 |
 |:-|-:|
 | [Alessandro Benetton](mailto:alessandro.benetton@studio.unibo.it) | 0001038887 |
 | Lorenzo Crespan | 0001038888 |
+| Li Zhiguang | 0001029938 |
 
 | I Fantastici Quattro | 4 |
 |:-|-:|
