@@ -84,3 +84,8 @@ Nessuno, per il momento.
 |:-|-:|
 | [Silvano Carradori](mailto:silvano.carradori@studio.unibo.it) | 0001038791 |
 | Giulio Augello | 0001043910 |
+
+| <span style="color:red">WorkInProgress</span>  | 2 |
+|:-|-:|
+| [Tommaso Segato](mailto:tommaso.segato@studio.unibo.it) | 0001046547 |
+| Vittoria Conte | 0001007320 |
