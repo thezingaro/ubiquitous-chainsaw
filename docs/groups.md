@@ -78,3 +78,8 @@ Nessuno, per il momento.
 | [Gabriele Evangelista](gabriele.evangelista@studio.unibo.it) | 0001056572 |
 | Antonietta Pascarella | 0001039243 |
 | Michelle Zanotti | 0001038859 |
+
+| <span style="color:red">MontyPython</span> | 2 |
+|:-|-:|
+| [Silvano Carradori](mailto:silvano.carradori@studio.unibo.it) | 0001038791 |
+| Giulio Augello | 0001043910 |
