@@ -80,12 +80,12 @@ Nessuno, per il momento.
 | Antonietta Pascarella | 0001039243 |
 | Michelle Zanotti | 0001038859 |
 
-| <span style="color:red">MontyPython</span> | 2 |
+| MontyPython | 2 |
 |:-|-:|
 | [Silvano Carradori](mailto:silvano.carradori@studio.unibo.it) | 0001038791 |
 | Giulio Augello | 0001043910 |
 
-| <span style="color:red">WorkInProgress</span>  | 2 |
+| WorkInProgress | 2 |
 |:-|-:|
 | [Tommaso Segato](mailto:tommaso.segato@studio.unibo.it) | 0001046547 |
 | Vittoria Conte | 0001007320 |
