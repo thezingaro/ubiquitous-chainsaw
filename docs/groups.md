@@ -89,3 +89,9 @@ Nessuno, per il momento.
 |:-|-:|
 | [Tommaso Segato](mailto:tommaso.segato@studio.unibo.it) | 0001046547 |
 | Vittoria Conte | 0001007320 |
+
+| <span style="color:red">AHI-AHI-AHI</span> | 3 |
+|:-|-:|
+| [Aurora Brega](mailto:aurora.brega@studio.unibo.it) | 0001046055 |
+| Francesco Saverio Beccafichi | 0001052139 |
+| Francesco Piconi | 0001054500 |
