@@ -95,3 +95,6 @@ Nessuno, per il momento.
 | [Aurora Brega](mailto:aurora.brega@studio.unibo.it) | 0001046055 |
 | Francesco Saverio Beccafichi | 0001052139 |
 | Francesco Piconi | 0001054500 |
+
+| <span style="color:red">NOT_FOUND</span> | 1 |
+| Potena Nicandro (nicandro.potena@studio.unibo.it) | 0001000827 |
