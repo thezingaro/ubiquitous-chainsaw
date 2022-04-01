@@ -97,8 +97,9 @@ Nessuno, per il momento.
 | Francesco Piconi | 0001054500 |
 
 | <span style="color:red">NOT_FOUND</span> | 1 |
+|:-|-:|
 | [Potena Nicandro](nicandro.potena@studio.unibo.it) | 0001000827 |
 
-| <span style="color:red">ComunicazioneAlternativaAumentativa🖼</span> | 1 |
+| ComunicazioneAlternativaAumentativa🖼 | 1 |
 |:-|-:|
 | [Sofia Cerè](sofia-cere@studio.unibo.it) | 0001057906 |
