@@ -103,3 +103,9 @@ Nessuno, per il momento.
 | ComunicazioneAlternativaAumentativa🖼 | 1 |
 |:-|-:|
 | [Sofia Cerè](sofia-cere@studio.unibo.it) | 0001057906 |
+
+| <span style="color:red">iaMAN</span> | 3 |
+| :- | -: |
+| [Marco Madonna](mailto: marco.madonna@studio.unibo.it) | 1057914 |
+| Andrea D'Arpa | 983830 |
+| Eleonora Pirri| 983571|
