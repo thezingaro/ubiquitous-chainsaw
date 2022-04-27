@@ -109,3 +109,7 @@ Nessuno, per il momento.
 | [Marco Madonna](mailto: marco.madonna@studio.unibo.it) | 1057914 |
 | Andrea D'Arpa | 983830 |
 | Eleonora Pirri| 983571|
+
+| ComputerScientist | 1 |
+|:-|-:|
+| [Lorenzo Segalini](mailto:lorenzo.segalini@studio.unibo.it) | 0001039122 |
