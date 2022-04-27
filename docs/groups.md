@@ -110,6 +110,6 @@ Nessuno, per il momento.
 | Andrea D'Arpa | 983830 |
 | Eleonora Pirri| 983571|
 
-| ComputerScientist | 1 |
+| <span style="color:red">ComputerScientist</span> | 1 |
 |:-|-:|
 | [Lorenzo Segalini](mailto:lorenzo.segalini@studio.unibo.it) | 0001039122 |
