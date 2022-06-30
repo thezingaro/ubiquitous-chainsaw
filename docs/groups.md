@@ -4,12 +4,11 @@
 
 Nessuno, per il momento.
 
-## Elenco GRUPPI AI
+## Elenco GRUPPI AI che devono sostenere l'esame
 
-| Coughntrol | 2 |
+| SmashAI | 1 |
 |:-|-:|
-| [Sergio Solmonte](mailto:sergio.solmonte@studio.unibo.it) | 1039237 |
-| Michele Stelluti | 1038862 |
+| [GABRIELE SPINA](mailto:gabriele.spina2@studio.unibo.it) | 0001038853 |
 
 | <span style="color:red">Creative</span> | 4 |
 |:-|-:|
@@ -45,17 +44,11 @@ Nessuno, per il momento.
 | Erica Bertuzzi | 0001039031 |
 | Luca Cotugno | 0001062784 |
 
-| <span style="color:red">LittleBit</span> | 4 |
-|:-|-:|
-| [Bianca Raimondi](mailto:bianca.raimondi2@studio.unibo.it) | 1025069 |
-| Nicolò Pizzo | 1038811 |
-| Nicola Panozzo | 1044424 |
-| Diego Concetti | 1039668 |
 
 | theForecasters | 3 | 
 |:-|-:|
 | [Keran Jegasothy](mailto:keran.jegasothy@studio.unibo.it) | 1007457 |
-|Kathleen Anne Velasco | 1052173 |
+| Kathleen Anne Velasco | 1052173 |
 | Gabriele Pasquali | 1041754  |
 
 | Python in my boot | 3 |
@@ -96,10 +89,6 @@ Nessuno, per il momento.
 | Francesco Saverio Beccafichi | 0001052139 |
 | Francesco Piconi | 0001054500 |
 
-| <span style="color:red">NOT_FOUND</span> | 1 |
-|:-|-:|
-| [Potena Nicandro](nicandro.potena@studio.unibo.it) | 0001000827 |
-
 | ComunicazioneAlternativaAumentativa🖼 | 1 |
 |:-|-:|
 | [Sofia Cerè](sofia-cere@studio.unibo.it) | 0001057906 |
@@ -113,3 +102,22 @@ Nessuno, per il momento.
 | <span style="color:red">ComputerScientist</span> | 1 |
 |:-|-:|
 | [Lorenzo Segalini](mailto:lorenzo.segalini@studio.unibo.it) | 0001039122 |
+
+## Elenco GRUPPI AI che hanno sostenuto l'esame
+
+| <span style="color:green">Coughntrol</span> | 2 |
+|:-|-:|
+| [Sergio Solmonte](mailto:sergio.solmonte@studio.unibo.it) | 1039237 |
+| Michele Stelluti | 1038862 |
+
+| <span style="color:green">NOT_FOUND</span> | 1 |
+|:-|-:|
+| [Potena Nicandro](nicandro.potena@studio.unibo.it) | 0001000827 |
+
+| <span style="color:green">LittleBit</span> | 4 |
+|:-|-:|
+| [Bianca Raimondi](mailto:bianca.raimondi2@studio.unibo.it) | 1025069 |
+| Nicolò Pizzo | 1038811 |
+| Nicola Panozzo | 1044424 |
+| Diego Concetti | 1039668 |
+
