@@ -6,6 +6,10 @@ Nessuno, per il momento.
 
 ## Elenco GRUPPI AI che devono sostenere l'esame
 
+| SolAIsta | 1 |
+|:-|-:|
+| [Akira Petrolini](mailto:akira.petrolini@studio.unibo.it) | 0001039335 |
+
 | SmashAI | 1 |
 |:-|-:|
 | [GABRIELE SPINA](mailto:gabriele.spina2@studio.unibo.it) | 0001038853 |
@@ -44,7 +48,6 @@ Nessuno, per il momento.
 | Erica Bertuzzi | 0001039031 |
 | Luca Cotugno | 0001062784 |
 
-
 | theForecasters | 3 | 
 |:-|-:|
 | [Keran Jegasothy](mailto:keran.jegasothy@studio.unibo.it) | 1007457 |
@@ -60,12 +63,6 @@ Nessuno, per il momento.
 | <span style="color:red">OkComputer</span> | 1 |
 |:-|-:|
 | [Alessandro Pistola](mailto:alessandro.pistola@studio.unibo.it) | 1058248 |
-
-| La Triade | 3 |
-|:-|-:|
-| [Luca Genova](mailto:luca.genova2@studio.unibo.it) | 0001038843 |
-| Marco Benito Tomasone | 0001038815 |
-| Simone Boldrini | 0001038792|
 
 | Leoni Turchesi Vanigliati | 3 |
 |:-|-:|
@@ -121,3 +118,8 @@ Nessuno, per il momento.
 | Nicola Panozzo | 1044424 |
 | Diego Concetti | 1039668 |
 
+| <span style="color:green">La Triade</span> | 3 |
+|:-|-:|
+| [Luca Genova](mailto:luca.genova2@studio.unibo.it) | 0001038843 |
+| Marco Benito Tomasone | 0001038815 |
+| Simone Boldrini | 0001038792|
