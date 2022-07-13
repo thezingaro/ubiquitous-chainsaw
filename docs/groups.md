@@ -28,12 +28,6 @@ Nessuno, per il momento.
 | Leonardo Vincenzi | 0001056530 |
 | Andrea Iannaccone | 0001038925 |
 
-| CTRL+C CTRL+V | 3 |
-|:-|-:| 
-| [Filippo Bartolucci](mailto:filippo.bartolucci2@studio.unibo.it) | 1039733 | 
-| Alfonso Esposito | 1057171 |
-| Isabella Marasco | 1040993 |
-
 | ITLandfill | 4 |
 |:-|-:|
 | [Benetton Alessandro](mailto:alesandro.benetton@studio.unibo.it) | 0001038887 |
@@ -123,3 +117,9 @@ Nessuno, per il momento.
 | [Luca Genova](mailto:luca.genova2@studio.unibo.it) | 0001038843 |
 | Marco Benito Tomasone | 0001038815 |
 | Simone Boldrini | 0001038792|
+
+| <span style="color:green">CTRL+C CTRL+V</span> | 3 |
+|:-|-:| 
+| [Filippo Bartolucci](mailto:filippo.bartolucci2@studio.unibo.it) | 1039733 | 
+| Alfonso Esposito | 1057171 |
+| Isabella Marasco | 1040993 |
